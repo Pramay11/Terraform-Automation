@@ -68,4 +68,3 @@ tags= {
     Name = "my_elastic_ip"
   }
 }
-
